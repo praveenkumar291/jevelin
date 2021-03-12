@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+}
+body {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRpqcmmZzWkeiwcdqb4i4WPUM7QkVf3uUwLA&usqp=CAU");
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h2 {
+  color: yellow;
+}
+h4 {
+  color: violet;
+}
+a {
+  color: yellowgreen;
+}
+hr {
+  width: 30%;
+  border-color: white;
+  border-radius: 0vh1;
+}
