@@ -21,3 +21,28 @@ hr {
   border-color: white;
   border-radius: 0vh1;
 }
+
+.input {
+  border-radius: 15px;
+  padding: 10px;
+}
+
+.input1 {
+  width: 500px;
+}
+
+.input2 {
+  width: 232px;
+}
+
+.email {
+  margin-top: 10px;
+}
+
+.button {
+  border: 1px solid cyan;
+  border-radius: 20px;
+  padding: 10px 20px;
+  margin: 20px;
+  background-color: cyan;
+}
